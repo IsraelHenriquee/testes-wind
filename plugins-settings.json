@@ -1,1 +1,9 @@
-{}
+{
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "0018026e-f1c9-4a0b-830b-9a7e3d7ae9b8",
+        "name": "REST API",
+        "designId": "7425906e-ffb2-48ef-afbc-3ddd3f5159d1",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    }
+}
