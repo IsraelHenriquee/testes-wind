@@ -25,7 +25,7 @@ import pluginsSettings from '../../plugins-settings.json';
 // eslint-disable-next-line no-undef
 window.wwg_designInfo = {"id":"7425906e-ffb2-48ef-afbc-3ddd3f5159d1","homePageId":"dfe5838d-a796-4d2f-a81c-986529cb2a9b","authPluginId":null,"baseTag":null,"defaultTheme":"light","langs":[{"lang":"en","default":true}],"background":{},"workflows":[],"pages":[{"id":"dfe5838d-a796-4d2f-a81c-986529cb2a9b","linkId":"dfe5838d-a796-4d2f-a81c-986529cb2a9b","name":"Home","folder":null,"paths":{"en":"home","default":"home"},"langs":["en"],"cmsDataSetPath":null,"sections":[{"uid":"326666db-3fd7-46e9-94e6-9bd723a6cc53","sectionTitle":"Section","linkId":"31fab584-6db0-42ea-8c04-19b0cc1e9af1"}],"pageUserGroups":[],"title":{"en":"","fr":"Vide | Commencer à partir de zéro"},"meta":{"desc":{},"keywords":{},"socialDesc":{},"socialTitle":{},"structuredData":{}},"metaImage":""}],"plugins":[]};
 // eslint-disable-next-line no-undef
-window.wwg_cacheVersion = 1;
+window.wwg_cacheVersion = 2;
 // eslint-disable-next-line no-undef
 window.wwg_pluginsSettings = pluginsSettings;
 // eslint-disable-next-line no-undef
